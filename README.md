@@ -10,10 +10,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tedhoon&repo=django-rest-framework&theme=dark&show_icons=true" />
 </a>
 
-<a href="https://github.com/Tedhoon/RdQuiz">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tedhoon&repo=RdQuiz&theme=dark&show_icons=true" />
-</a>
-
 <a href="https://github.com/Tedhoon/pusan-corona-mask-map">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tedhoon&repo=pusan-corona-mask-map&theme=dark&show_icons=true" />
 </a>
@@ -25,3 +21,11 @@
 <a href="https://github.com/Tedhoon/AsyncPlatform">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tedhoon&repo=AsyncPlatform&theme=dark&show_icons=true" />
 </a>
+
+<a href="https://github.com/Tedhoon/RdQuiz">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tedhoon&repo=RdQuiz&theme=dark&show_icons=true" />
+</a>
+
+<div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTedhoon)](https://hits.seeyoufarm.com)
+</div>
