@@ -1,6 +1,8 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tedhoon&show_icons=true&theme=dark)
 
 <!--
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tedhoon&show_icons=true&theme=dark)
+
 <br> 
   <a href="https://github.com/Tedhoon/LittleAchievement">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tedhoon&repo=LittleAchievement&theme=dark&show_icons=true" />
