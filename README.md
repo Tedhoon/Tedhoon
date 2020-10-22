@@ -1,6 +1,6 @@
-<img align="center" src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" width="200 " height="200" />
+<img align="right" src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" width="200 " height="200" />
 
-#### work on
+### hello hello
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
@@ -18,6 +18,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white">
+
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTedhoon)](https://hits.seeyoufarm.com)
