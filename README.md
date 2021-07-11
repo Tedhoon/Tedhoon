@@ -1,7 +1,3 @@
-<img align="right" src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" width="200 " height="200" />
-
-### hello hello
-
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" />
